@@ -1,6 +1,6 @@
 ### Hi 🐹
 
-I am a Python Developer with a strong background in automation. Over the past two years, I have worked as an Automation QA Engineer, gaining commercial experience in designing robust automated tests and developing/integrating automation tools using Python. My passion lies in software development and problem-solving, and I am committed to continuously learning new technologies and keeping up with industry trends. I hold a bachelor’s degree in Computer Science with a specialization in Artificial Intelligence and plan to further advance my expertise by pursuing a master’s degree in this field.
+I am Maksym Oliinyk, a Python Developer with extensive experience in automation
 
 <!--
 **Maksym637/Maksym637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
